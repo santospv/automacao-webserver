@@ -1,4 +1,4 @@
-# automacao-webserver
+# Automatizando implantação do Apache 2
 Automação para Linux destinada para subir uma uma aplicação Web no servidor Apache utilizando shell /bash para fazer a magica acontecer. Ao todo são 8 passos que o script executa para o provisionamento da aplicação, os quais são:
 
 1 - Verificando atualizações 
